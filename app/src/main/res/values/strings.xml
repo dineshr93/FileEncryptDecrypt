@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileEncryptDecrypt</string>
+    <string name="title_e">Encrypt</string>
+    <string name="title_d">Decrypt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
